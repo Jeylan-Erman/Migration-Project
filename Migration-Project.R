@@ -32,9 +32,7 @@ library(ggplot2)
 #reside in the household and were present the night prior to the interview—are interviewed. 
 #Detailed demographic, social and economic characteristics are collected  Turkey is one of the 
 #few international surveys that also collects migration histories which I will exploit. 
-#The aim of this study is to understand the predictors of women's fertility transitions based on available features, 
-#with special attention to urban to urban migration and ultimately aid city planners' understanding
-#of the consequences of migration to urban areas.
+#The aim of this study is to understand the predictors of women's fertility transitions based on available features.
 
 ###### caseid   "case identification"
 ## v000     "country code and phase"
