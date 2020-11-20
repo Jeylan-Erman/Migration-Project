@@ -31,7 +31,7 @@ library(ggplot2)
 #select households. All eligible women in the household—those between the ages of 15 and 49 who usually 
 #reside in the household and were present the night prior to the interview—are interviewed. 
 #Detailed demographic, social and economic characteristics are collected  Turkey is one of the 
-#few international surveys that also collects migration histories which I will exploit. 
+#few international surveys that also collects migration histories. 
 #The aim of this study is to understand the predictors of women's fertility transitions based on available features.
 
 ###### caseid   "case identification"
